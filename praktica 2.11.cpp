@@ -51,8 +51,5 @@ int main()
 	}
 	int pr = vctr(laba);
 	cout << endl << "Произведение чётных элементов: " << pr;*/
-
-
-
 }
 
